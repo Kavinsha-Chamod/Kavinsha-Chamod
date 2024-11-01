@@ -12,7 +12,7 @@
 
  🌱 I’m currently learning **Software Engineering**
  
- 👀 I’m interested in **coding and web development**
+ 👀 I’m interested in **coding and mobile development**
  
  😄 Pronouns: **he/him**
 
